@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FimDeCamera : MonoBehaviour {
+public class FimdeCamera : MonoBehaviour {
 
     public void CameraAcabou() {
         CutSceneController.instancia.ProximaCamera();
